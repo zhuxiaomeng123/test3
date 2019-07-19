@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-07-21 10:49:01
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-07-21 11:37:05
-*/
+
 //定义
 
 // console.log(module);

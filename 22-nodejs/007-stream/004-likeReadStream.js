@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-07-23 16:06:13
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-07-23 16:25:11
-*/
+
 const EventEmitter = require('events');
 
 class LikeReadableStream extends EventEmitter{

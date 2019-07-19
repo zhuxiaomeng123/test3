@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-07-23 15:27:39
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-07-23 15:48:10
-*/
+
 const {Readable} = require('stream');
 
 // console.log(Readable);

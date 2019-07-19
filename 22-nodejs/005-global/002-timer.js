@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-07-21 17:02:13
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-07-21 17:12:20
-*/
+
 /*
 console.log(1);
 

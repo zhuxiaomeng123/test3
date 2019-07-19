@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-07-16 09:56:42
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-07-16 09:56:55
-*/
+
 (function(win,doc){
 	//1.获取根元素
 	var oRoot = doc.getElementsByTagName('html')[0];

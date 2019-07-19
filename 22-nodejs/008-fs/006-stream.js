@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-07-24 10:45:22
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-07-24 11:23:10
-*/
+
 const fs = require('fs');
 
 const ws = fs.createWriteStream('./ws.txt');

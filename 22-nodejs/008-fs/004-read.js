@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-07-24 09:43:09
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-07-24 09:50:55
-*/
+
 const fs = require('fs');
 
 //open file

@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-07-28 10:11:52
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-07-28 15:13:19
-*/
+
 const wish = require('../Model/Wish.js');
 const swig = require('swig');
 const querystring = require('querystring');

@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-07-23 09:48:44
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-07-23 10:48:04
-*/
+
 const EventEmitter = require('events');
 
 class MyEmitter extends EventEmitter {

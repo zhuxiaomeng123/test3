@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-06-03 11:37:17
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-06-08 19:45:05
-*/
+
 //kQuery的基本结构是一个闭包
 (function(window, undefined){
 var 

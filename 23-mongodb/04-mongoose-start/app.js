@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-07-31 16:39:50
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-07-31 17:25:16
-*/
+
 const mongoose = require('mongoose');
 
 //1.连接数据库

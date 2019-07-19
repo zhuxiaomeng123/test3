@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-07-23 17:27:13
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-07-24 09:26:44
-*/
+
 const fs = require('fs');
 
 //1.打开文件

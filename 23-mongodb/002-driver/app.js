@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-07-31 10:04:04
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-07-31 11:13:17
-*/
+
 const MongoClient = require('mongodb').MongoClient;
 
 // Connection URL

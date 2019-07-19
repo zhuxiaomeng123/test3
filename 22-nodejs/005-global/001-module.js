@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-07-21 16:29:30
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-07-21 16:49:08
-*/
+
 
 //module 当前的模块信息
 //exports module.exports对象,用来导出模块

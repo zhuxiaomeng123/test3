@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-06-01 20:41:49
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-06-01 20:42:02
-*/
+
 ;(function($){
 	$.fn.extend({
 		tab:function(options){

@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-07-24 09:16:55
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-07-24 09:25:48
-*/
+
 const fs = require('fs');
 
 

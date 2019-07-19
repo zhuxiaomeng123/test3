@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-07-26 16:08:46
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-07-28 15:19:22
-*/
+
 const http = require('http');
 const path = require('path');
 const fs = require('fs');

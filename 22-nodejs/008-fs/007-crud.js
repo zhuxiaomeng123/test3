@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-07-24 11:25:42
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-07-24 16:06:14
-*/
+
 const fs = require('fs');
 const uuidv1 = require('uuid/v1');
 

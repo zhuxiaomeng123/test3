@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-07-23 09:05:51
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-07-23 09:43:55
-*/
+
 /*
 	//2个16进制数 = 1B
 	

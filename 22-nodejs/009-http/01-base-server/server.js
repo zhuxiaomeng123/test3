@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-07-24 17:02:35
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-07-24 17:21:54
-*/
+
 const http = require('http');
 
 // console.log(http);

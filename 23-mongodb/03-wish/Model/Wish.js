@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-07-27 10:29:02
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-07-31 15:35:22
-*/
+
 const fs = require('fs');
 const uuidv1 = require('uuid/v1');
 const MongoClient = require('mongodb').MongoClient;

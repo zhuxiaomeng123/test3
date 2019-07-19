@@ -1,9 +1,4 @@
-/*
-* @Author: Tom
-* @Date:   2018-07-25 14:33:24
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-07-31 15:33:53
-*/
+
 
 (function($){
 

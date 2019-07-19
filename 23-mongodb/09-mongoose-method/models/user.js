@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-08-02 11:30:37
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-08-03 09:19:23
-*/
+
 const mongoose = require('mongoose');
 
 const UserSchema = new mongoose.Schema({

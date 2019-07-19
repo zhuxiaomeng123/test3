@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-07-24 10:13:06
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-07-24 10:27:06
-*/
+
 const fs = require('fs');
 
 // fs.writeFileSync('./001.txt','ccc',{flag:'a'});

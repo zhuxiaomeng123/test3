@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-07-23 14:35:57
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-07-23 15:33:07
-*/
+
 //实现一个自己的可写流
 
 const {Writable} = require('stream');

@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-07-24 17:02:35
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-07-26 15:43:53
-*/
+
 const http = require('http');
 
 const url = require('url');

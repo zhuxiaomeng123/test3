@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-07-28 10:38:06
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-07-28 15:17:40
-*/
+
 const swig = require('swig');
 class Index{
 	index(req,res,...args){
