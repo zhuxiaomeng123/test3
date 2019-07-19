@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-08-16 17:14:09
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-08-23 14:55:19
-*/
+
 import React,{ Component } from 'react';
 import TodoList from './pages/todolist';
 import {

@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-08-20 09:18:25
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-08-20 14:43:43
-*/
+
 
 const defaultState = {
 	value:'hello!!!',

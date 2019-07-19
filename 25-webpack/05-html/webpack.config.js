@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-08-16 09:57:02
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-08-16 15:22:38
-*/
+
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 

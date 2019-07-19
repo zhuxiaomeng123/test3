@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-08-20 09:18:25
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-08-21 15:02:50
-*/
+
 import  * as types from './actionTypes.js'
 
 const defaultState = {

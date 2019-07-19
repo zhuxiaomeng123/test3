@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-08-20 14:57:01
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-08-20 17:09:15
-*/
+
 import {CHANGE_VALUE,ADD_ITEM,DELETE_ITEM,LOAD_INIT_DATA  } from './actionTypes.js'
 import axios from 'axios';
 export const chageValueAction = (payload)=>{

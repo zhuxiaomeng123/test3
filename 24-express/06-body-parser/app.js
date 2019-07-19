@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-08-04 11:40:20
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-08-04 11:55:06
-*/
+
 const express = require('express');
 const bodyParser = require('body-parser');
 

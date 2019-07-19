@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-08-16 09:57:02
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-08-16 14:52:34
-*/
+
 const path = require('path');
 
 //导出配置

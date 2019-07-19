@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-08-20 09:18:25
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-08-20 16:29:23
-*/
+
 import {CHANGE_VALUE,ADD_ITEM,DELETE_ITEM,LOAD_INIT_DATA  } from './actionTypes.js'
 const defaultState = {
 	value:'',

@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-08-16 09:57:02
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-08-21 09:21:58
-*/
+
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const CleanWebpackPlugin = require('clean-webpack-plugin');

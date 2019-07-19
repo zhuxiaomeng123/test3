@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-08-17 15:14:29
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-08-18 15:49:08
-*/
+
 import React,{ Component } from 'react';
 import PropTypes from 'prop-types';
 

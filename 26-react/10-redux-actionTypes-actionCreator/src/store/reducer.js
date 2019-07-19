@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-08-20 09:18:25
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-08-20 14:53:53
-*/
+
 import {CHANGE_VALUE,ADD_ITEM,DELETE_ITEM  } from './actionTypes.js'
 const defaultState = {
 	value:'hello!!!',

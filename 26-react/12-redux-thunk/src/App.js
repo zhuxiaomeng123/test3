@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-08-16 17:14:09
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-08-20 17:04:31
-*/
+
 import React,{ Component } from 'react';
 
 import { Input,Button,Row,Col,List } from 'antd';

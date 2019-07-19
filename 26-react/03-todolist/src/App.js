@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-08-16 17:14:09
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-08-17 14:54:48
-*/
+
 import React,{ Component,Fragment } from 'react';
 
 //引入css

@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-08-03 17:10:35
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-08-04 09:50:46
-*/
+
 const Router = require('express').Router;
 
 const router = Router();

@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-08-04 14:40:13
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-08-04 15:37:25
-*/
+
 const express = require('express');
 const swig = require('swig')
 

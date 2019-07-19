@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2018-08-20 14:57:01
-* @Last Modified by:   TomChen
-* @Last Modified time: 2018-08-21 17:11:42
-*/
+
 import * as types from './actionTypes.js'
 import axios from 'axios';
 export const chageValueAction = (payload)=>{
